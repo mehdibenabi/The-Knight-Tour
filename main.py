@@ -2,7 +2,7 @@ import pygame
 from random import random, randint
 
 # Constants
-width, height = 700, 600
+width, height = 700, 700
 square_size = width // 8
 
 pygame.init()
@@ -190,7 +190,7 @@ while running:
                 ) 
                 screen.blit(transparent_surface, (x, y))
                 pygame.display.update()
-                clock.tick(2)
+                clock.tick(10)
 
             
             draw_knight(best_knight.path[-1])

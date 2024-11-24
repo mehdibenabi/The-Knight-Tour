@@ -1,2 +1,2 @@
-# the-Knight-Tour-
-Solving the Knight’s Tour problem using a genetic algorithm
+# The Knight Tour
+Solving the Knight’s Tour problem using a  Genetic Algorithm
